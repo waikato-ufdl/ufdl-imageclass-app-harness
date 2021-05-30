@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UFDL Image Classifier</string>
+    <string name="framework">Framework</string>
+    <string name="model">Model</string>
+    <string name="label">Label</string>
+    <string name="probability">Probability</string>
+    <string name="bottom_sheet_header_label">Model Settings</string>
+
+    <string-array name="model_frameworks" translatable="false">
+        <item>PyTorch Mobile</item>
+        <item>TensorFlow Lite</item>
+    </string-array>
+
+</resources>
